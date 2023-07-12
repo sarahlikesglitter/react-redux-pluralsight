@@ -26,7 +26,6 @@ yarn-error.log*
 /public/flags.local.json
 /public/save_personal_info_json.txt
 /src/.vs
-/src/*/*.js
 /src/*/*.js.map
 .lh/
 .npmrc
